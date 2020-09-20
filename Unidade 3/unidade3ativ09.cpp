@@ -23,7 +23,7 @@ class Rational{
     //metotos que imprimem a fração no formato a / b para inteiro ou ponto flutuante
     void imprimifloat();
     void imprimirinteiro();
-    //metodos sets
+    //metodos gets
     int get_numerador();
     int get_denominador();
 };
