@@ -1,4 +1,4 @@
-//Criando o prot�tipo da classe
+//Criando o protótipo da classe
 #ifndef Rational_F
 #define Rational_F
 //criando a classe Rational
@@ -14,7 +14,7 @@ class Rational{
     //metotos que imprimem a fração no formato a / b para inteiro ou ponto flutuante
     void imprimifloat();
     void imprimirinteiro();
-    //metodos sets
+    //metodos gets
     int get_numerador();
     int get_denominador();
 };
